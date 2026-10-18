@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# input, output and downloaded data
+mmcif_files/
+unique_chains/
+unique_chain_references/
+*.cif
+*.cif.gz
+*.pdb
+*.sqlite
+*.sqlite.building
+*.part
+.tmp_*
+*.log

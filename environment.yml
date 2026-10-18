@@ -1,0 +1,11 @@
+name: unique-chain-selector
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.12
+  - gemmi>=0.7
+  - numpy
+  - scipy
+  - tqdm
+  - openmm>=8
+  - pdbfixer>=1.9
